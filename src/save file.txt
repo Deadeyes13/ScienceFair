@@ -1,0 +1,9 @@
+pokemon
+100
+walk around meet pokemon
+catch pokemon 
+train pokemon
+battle trainer and gym leaders 
+become to pokemon master
+gotta catch them all!
+;
